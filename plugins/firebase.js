@@ -5,13 +5,13 @@ import 'firebase/firestore'
 
 if (!firebase.apps.length) {
   const firebaseConfig = {
-    apiKey: 'AIzaSyBiUhA6ehPJPn4UpO23w-Tt-F2bx9STWdU',
-    authDomain: 'buildbrother-1.firebaseapp.com',
-    databaseURL: 'https://buildbrother-1.firebaseio.com',
-    projectId: 'buildbrother-1',
-    storageBucket: 'buildbrother-1.appspot.com',
-    messagingSenderId: '1009278517698',
-    appId: '1:1009278517698:web:05b76a68006e2afc91165b',
+    apiKey: '',
+    authDomain: '',
+    databaseURL: '',
+    projectId: '',
+    storageBucket: '',
+    messagingSenderId: '',
+    appId: '',
   }
   firebase.initializeApp(firebaseConfig)
   firebase.firestore()
