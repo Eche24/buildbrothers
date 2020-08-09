@@ -1,0 +1,52 @@
+body {
+  font-size: 18px;
+  font-family: Montserrat, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  -o-font-smoothing: antialiased;
+}
+h1 {
+  line-height: 1.2em;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  font-size: 2rem;
+  font-family: 'Raleway', sans-serif;
+  color: #061328;
+}
+h2 {
+  line-height: 1.26em;
+  letter-spacing: -0.01em;
+  font-weight: 700;
+  font-size: 1.68rem;
+  padding-bottom: 0.2em;
+}
+h3 {
+  text-transform: capitalize;
+  color: #a2b4cf;
+  line-height: 1.26em;
+  letter-spacing: -0.01em;
+}
+
+p {
+  font-size: 1.125rem;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 12px;
+  /* color: #c2cee0; */
+  letter-spacing: -0.02em;
+}
+a {
+  text-decoration: none;
+  text-transform: capitalize;
+  white-space: nowrap;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: 'Raleway', sans-serif;
+  color: #000000d1;
+}
+a:hover {
+  /* text-decoration: underline; */
+  color: teal;
+  text-decoration-style: solid;
+  /* text-decoration-width: 2px; */
+  /* text-decoration: underline solid green 3px; */
+}
