@@ -1,4 +1,4 @@
-# buildbrother
+# Buildbrother
 
 ## Build Setup
 
